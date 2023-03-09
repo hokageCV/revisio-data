@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "subject": "c",
+    "question": "What is photoelectric effect ?",
+    "answer": "phenomenon in which the surface of alkali metals like potassium and calcium emit electrons when a beam of light with high frequency is projected on them."
+  },
+  {
+    "id": "2",
+    "subject": "c",
+    "question": "What is bond order ?",
+    "answer": "number of bonds between two atoms in a molecule. It can be calculated by the difference between bonding and antibonding number of electrons."
+  },
+  {
+    "id": "3",
+    "subject": "c",
+    "question": "IUPAC Nomenclature order ?",
+    "answer": "Sp + PP + word root + Ps + ss"
+  },
+  {
+    "id": "4",
+    "subject": "c",
+    "question": "What is specific heat ?",
+    "answer": "quantity of heat required to raise the temperature of one unit mass of a substance by one degree Celsius (or one Kelvin)"
+  },
+  {
+    "id": "5",
+    "subject": "c",
+    "question": "molarity formula?",
+    "answer": " Mole of solute / volume of solution"
+  },
+  {
+    "id": "6",
+    "subject": "c",
+    "question": "different types of redox reaction ?",
+    "answer": "Combination, Decomposition, Displacement, Disproportionation "
+  }
+]
